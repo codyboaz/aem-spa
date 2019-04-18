@@ -24,8 +24,6 @@
 
     <modules>
         <module>core</module>
-        <!-- add React App -->
-        <module>react-app</module>
         <module>ui.apps</module>
         <module>ui.content</module>
     </modules>
